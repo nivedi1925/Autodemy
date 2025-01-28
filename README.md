@@ -6,8 +6,9 @@ Automated script for getting the personalized udemy course offers from multiple 
 Udemy has large number of educational courses which adds great value to our skill set. 
 Udemy offers promotional offers for their courses. Along with this course instructor also provides coupons for their courses on udemy.
 However, there is no single platform where coupons can be shared. So to achieve this there are multiple Telegram Channels and Telegram Bots are exist. 
-Through those channels offers/coupons are shared which are valid for a specific time.
-
+Through those channels offer/coupon messages are shared which are valid for a specific time. Reading each coupon message from multiple channels is deficult as there will be duplicates with multiple channels and message may repeate over the time.
+This application solves this problem by processing the message and maintaining the status of each message. 
+ 
 
 ### Features
 1. This application program reads messages from multiple telegram channels and process it for deduplication and sends the only necessary offer message to specified private channel.
