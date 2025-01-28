@@ -27,6 +27,7 @@ Through those channels offers/coupons are shared which are valid for a specific 
 #### How to use?
 1. Set the api_id, api_hash in config.py
 2. Set channel ids in config.py
+3. Run main.py script
 
 #### Tip
 Use cron job to run the main.py in the specified interval.
