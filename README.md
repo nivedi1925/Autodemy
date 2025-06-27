@@ -4,7 +4,7 @@ Automated script for getting the personalized udemy course offers from multiple 
 ## Introduction
 This project is an automated script that collects and filters Udemy course offers shared through multiple Telegram channels and bots. Since many of these messages are duplicated or repeated across channels, the script processes and tracks each message to eliminate redundancy. It ensures users receive only unique, up-to-date course coupons, making it easier to discover and enroll in valuable Udemy courses without the noise.
 
-## Explanation
+### Explanation
 Udemy has large number of educational courses which adds great value to our skill set. 
 Udemy offers promotional offers for their courses. Along with this course instructor also provides coupons for their courses on udemy.
 However, there is no single platform where coupons can be shared. So to achieve this there are multiple Telegram Channels and Telegram Bots are exist. 
